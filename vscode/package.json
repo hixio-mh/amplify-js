@@ -91,7 +91,7 @@
         ]
     },
     "dependencies": {
-        "jshint": "^2.9.5",
+        "jshint": "^2.9.6",
         "simplebuild-jshint": "^1.3.0"
     },
     "devDependencies": {
