@@ -74,7 +74,7 @@
 		"ts-jest": "^24.x.x",
 		"tslint": "^5.7.0",
 		"tslint-config-airbnb": "^5.8.0",
-		"typedoc": "^0.16.9",
+		"typedoc": "^0.21.0",
 		"typescript": "~3.6.4",
 		"uglifyjs-webpack-plugin": "^0.4.6",
 		"uuid-validate": "^0.0.3",
