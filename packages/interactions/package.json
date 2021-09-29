@@ -36,6 +36,9 @@
   "homepage": "https://aws-amplify.github.io/",
   "dependencies": {
     "@aws-amplify/core": "^3.3.2",
+    snyk-upgrade-d1ccea591dce0047efcf89827f1c7e19
+    "@aws-sdk/client-lex-runtime-service": "3.25.0"
+
     snyk-upgrade-d3b4cb40e6f8702ce378d08de58f6823
     "@aws-sdk/client-lex-runtime-service": "3.23.0"
 
