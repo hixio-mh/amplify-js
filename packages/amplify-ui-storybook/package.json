@@ -14,6 +14,9 @@
     "react": "^16.12.0",
     "react-app-polyfill": "^1.0.6",
     "react-dom": "^16.12.0",
+<<< snyk-fix-b575873ffb5af4b456e0592f1e3b23f4
+    "react-scripts": "4.0.0"
+=
     snyk-fix-2b1f6f768ef1a41a410e94348c437325
     "react-scripts": "3.4.4"
  snyk-fix-646a784e883e2adb3bc910093692dabf
@@ -27,7 +30,6 @@ snyk-fix-520fe50c781e4430f4e277c7c2fb1414
 
     "react-scripts": "4.0.0" 
 master
-
   },
   "scripts": {
     "test": "react-scripts test --passWithNoTests",
