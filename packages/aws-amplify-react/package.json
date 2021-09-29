@@ -92,8 +92,13 @@
     }
   },
   "dependencies": {
+ snyk-upgrade-22b87368d803cd71c6e8dfeae5e53b69
+    "qrcode.react": "^0.9.3",
+    "regenerator-runtime": "^0.11.1"
+
     "qrcode.react": "^0.8.0",
-    "regenerator-runtime": "^0.13.7"
+    "regenerator-runtime": "^0.13.20"
+>master
   },
   "peerDependencies": {
     "@aws-amplify/analytics": "^2.0.0",
