@@ -41,6 +41,9 @@
     "@aws-sdk/client-rekognition": "1.0.0-gamma.2",
  snyk-upgrade-36c2ea62ddc9d99005f33230fc9ef0a2
     "@aws-sdk/client-textract": "1.0.0-gamma.2",
+snyk-upgrade-f879188df3610808de52d9c5114b5a08
+    "@aws-sdk/client-translate": "3.25.0",
+
     "@aws-sdk/client-translate": "3.24.0",
 snyk-upgrade-cb86f463e1a782567815eb09fb8122a3
     "@aws-sdk/client-textract": "1.0.0-gamma.2", snyk-upgrade-f8d82f4235d880d476b84af5caacdc0d
@@ -52,7 +55,6 @@ snyk-upgrade-cb86f463e1a782567815eb09fb8122a3
     "@aws-sdk/client-translate": "3.18.0",
     "@aws-sdk/client-translate": "3.20.0",
 master
-
     "@aws-sdk/eventstream-marshaller": "1.0.0-gamma.1",
     "@aws-sdk/util-utf8-node": "1.0.0-gamma.1",
     "uuid": "^3.2.1"
@@ -61,7 +63,7 @@ master
     "globals": {
       "ts-jest": {
         "diagnostics": false,
-        "tsConfig": {
+        "tsConfig": 
           "lib": [
             "es5",
             "es2015",
