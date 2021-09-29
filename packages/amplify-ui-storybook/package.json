@@ -14,10 +14,14 @@
     "react": "^16.12.0",
     "react-app-polyfill": "^1.0.6",
     "react-dom": "^16.12.0",
+snyk-upgrade-fcc5fb50b2beba85cf9fd791a80d5a1c
+    "react-scripts": "3.4.4"
+
 <snyk-fix-520fe50c781e4430f4e277c7c2fb1414
     "react-scripts": "3.4.3"
 
     "react-scripts": "4.0.0" master
+master
   },
   "scripts": {
     "test": "react-scripts test --passWithNoTests",
