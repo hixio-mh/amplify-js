@@ -21,6 +21,9 @@
 		"@babel/preset-env": "^7.9.6",
 		"@babel/preset-react": "^7.9.4",
 		"@babel/preset-typescript": "^7.9.0",
+snyk-upgrade-a6f005bd489c2f4c992a141d86ac6b2d
+		"@types/react-native": "^0.64.12",
+
 snyk-upgrade-df6f2d5367d21170f446b9737fa5db73
 		"@types/react-native": "^0.64.11",
 
@@ -29,6 +32,7 @@ snyk-upgrade-df6f2d5367d21170f446b9737fa5db73
 		"@types/react-native": "^0.64.14",
 master
 
+ master
 		"babel-jest": "^21.2.0",
 		"react": "^16.0.0",
 		"rimraf": "^2.6.2"
