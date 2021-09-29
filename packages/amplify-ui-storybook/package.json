@@ -48,7 +48,11 @@
     "@storybook/addon-links": "^5.3.13",
     "@storybook/addons": "^5.3.13",
     "@storybook/preset-create-react-app": "^1.5.2",
+snyk-upgrade-4b35182a172e38ee648ba81b430f71a8
+    "@storybook/react": "^5.3.13",
+    "typescript": "~3.9.10"
     "@storybook/react": "^6.1.0",
     "typescript": "~3.7.2"
+master
   }
 }
