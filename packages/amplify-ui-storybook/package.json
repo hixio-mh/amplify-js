@@ -3,7 +3,11 @@
   "version": "0.2.8",
   "private": true,
   "dependencies": {
+    snyk-fix-6dd280d89b2d1e011886ef9ce5943d0a
+    "@aws-amplify/ui-react": "^1.0.1",
+
     "@aws-amplify/ui-react": "^0.2.8",
+ master
     "@storybook/addon-knobs": "^6.1.0",
     "@storybook/theming": "^5.3.14",
     "@types/jest": "^24.0.0",
@@ -60,9 +64,11 @@ master
     "@storybook/addon-links": "^5.3.13",
     "@storybook/addons": "^5.3.13",
     "@storybook/preset-create-react-app": "^1.5.2",
+ snyk-fix-6dd280d89b2d1e011886ef9ce5943d0a
 snyk-upgrade-4b35182a172e38ee648ba81b430f71a8
     "@storybook/react": "^5.3.13",
     "typescript": "~3.9.10"
+    master
     "@storybook/react": "^6.1.0",
     "typescript": "~3.7.2"
 master
