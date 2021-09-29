@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@aws-amplify/ui-react": "^0.2.8",
-    "@storybook/addon-knobs": "^5.3.13",
+    "@storybook/addon-knobs": "^6.1.0",
     "@storybook/theming": "^5.3.14",
     "@types/jest": "^24.0.0",
     "@types/node": "^12.0.0",
@@ -14,7 +14,18 @@
     "react": "^16.12.0",
     "react-app-polyfill": "^1.0.6",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.4.1"
+ snyk-fix-646a784e883e2adb3bc910093692dabf
+    "react-scripts": "4.0.0"
+
+snyk-upgrade-fcc5fb50b2beba85cf9fd791a80d5a1c
+    "react-scripts": "3.4.4"
+
+snyk-fix-520fe50c781e4430f4e277c7c2fb1414
+    "react-scripts": "3.4.3"
+
+    "react-scripts": "4.0.0" master
+master
+ master
   },
   "scripts": {
     "test": "react-scripts test --passWithNoTests",
@@ -45,7 +56,11 @@
     "@storybook/addon-links": "^5.3.13",
     "@storybook/addons": "^5.3.13",
     "@storybook/preset-create-react-app": "^1.5.2",
+snyk-upgrade-4b35182a172e38ee648ba81b430f71a8
     "@storybook/react": "^5.3.13",
+    "typescript": "~3.9.10"
+    "@storybook/react": "^6.1.0",
     "typescript": "~3.7.2"
+master
   }
 }
