@@ -39,9 +39,14 @@
     "@aws-sdk/client-comprehend": "1.0.0-gamma.2",
     "@aws-sdk/client-polly": "1.0.0-gamma.2",
     "@aws-sdk/client-rekognition": "1.0.0-gamma.2",
+snyk-upgrade-cb86f463e1a782567815eb09fb8122a3
+    "@aws-sdk/client-textract": "1.0.0-gamma.2",
+    "@aws-sdk/client-translate": "3.21.0",
+
     "@aws-sdk/client-textract": "1.0.0-gamma.2", snyk-upgrade-1ae551dced9e4317fc6f6547c7dbe218
     "@aws-sdk/client-translate": "3.18.0",
     "@aws-sdk/client-translate": "3.20.0",
+master
 master
     "@aws-sdk/eventstream-marshaller": "1.0.0-gamma.1",
     "@aws-sdk/util-utf8-node": "1.0.0-gamma.1",
