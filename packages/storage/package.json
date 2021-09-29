@@ -36,6 +36,9 @@
   "homepage": "https://aws-amplify.github.io/",
   "dependencies": {
     "@aws-amplify/core": "^3.3.2",
+ snyk-upgrade-a71d050e1f9567d860b7666326fde571
+    "@aws-sdk/client-s3": "3.22.0",
+
 snyk-upgrade-04b8411d89f81ae712f23c1bbe9bde41
     "@aws-sdk/client-s3": "3.21.0",
 
@@ -51,6 +54,7 @@ snyk-upgrade-eb8f3f980d8057e1b70ce558204f9501
     "@aws-sdk/client-s3": "3.30.0",
 master
 
+master
     "@aws-sdk/s3-request-presigner": "1.0.0-gamma.1",
     "@aws-sdk/util-create-request": "1.0.0-gamma.1",
     "@aws-sdk/util-format-url": "1.0.0-gamma
