@@ -43,7 +43,7 @@
     "@aws-amplify/pubsub": "^3.0.16",
     "graphql": "14.7.0",
     "uuid": "^3.2.1",
-    "zen-observable-ts": "0.8.19"
+    "zen-observable-ts": "0.8.21"
   },
   "peerDependencies": {
     "@aws-amplify/pubsub": "^2.1.1"
