@@ -54,7 +54,11 @@
 		"@types/puppeteer": "1.20.7",
 		"babel-loader": "^8.0.0",
 		"codecov": "^3.6.5",
+    snyk-fix-39ce6f175a802f69684ba3c8a4b924bf
+		"compression-webpack-plugin": "^2.0.0",
+
 		"compression-webpack-plugin": "^4.0.0",
+ master
 		"cypress": "^3.2.0",
 		"husky": "^3.0.5",
 		"jest": "^24.x.x",
