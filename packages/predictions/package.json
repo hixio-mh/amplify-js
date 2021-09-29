@@ -40,7 +40,9 @@
     "@aws-sdk/client-polly": "1.0.0-gamma.2",
     "@aws-sdk/client-rekognition": "1.0.0-gamma.2",
 snyk-upgrade-cb86f463e1a782567815eb09fb8122a3
-    "@aws-sdk/client-textract": "1.0.0-gamma.2",
+    "@aws-sdk/client-textract": "1.0.0-gamma.2", snyk-upgrade-f8d82f4235d880d476b84af5caacdc0d
+    "@aws-sdk/client-translate": "3.22.0",
+
     "@aws-sdk/client-translate": "3.21.0",
 
     "@aws-sdk/client-textract": "1.0.0-gamma.2", snyk-upgrade-1ae551dced9e4317fc6f6547c7dbe218
