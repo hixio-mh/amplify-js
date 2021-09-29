@@ -21,6 +21,8 @@
   "devDependencies": {
     "@aws-amplify/ui": "1.2.3",
     "@vue/cli-plugin-babel": "^3.0.1",
+ snyk-fix-2958fe491c0bc8ba24256f9c05aa418e
+    "@vue/cli-plugin-unit-jest": "^4.0.0",
     "@vue/cli-plugin-unit-jest": "^3.0.1",
     snyk-fix-c7790960be86340bd3b8c12f944879ff
 snyk-upgrade-2503d4af93583a55cf37713084fa2667
