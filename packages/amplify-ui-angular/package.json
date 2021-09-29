@@ -40,10 +40,16 @@
 		"rollup": "^1.1.2",
 		"rollup-plugin-node-resolve": "^4.0.0",
 		"rxjs": "^6.2.0",
-		"tsickle": "^0.34.0",
+		"tsickle": "^0.43.0",
 		"tslib": "^1.9.3",
 		"tslint": "^5.12.1",
+snyk-upgrade-91021942093f188ebece904f3f4f2def
 		"typescript": "3.2.4",
+		"zone.js": "^0.11.4"
+
+
+		"typeript": "3.9.10",
 		"zone.js": "^0.8.28"
+ master
 	}
 }
