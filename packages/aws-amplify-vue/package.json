@@ -22,8 +22,13 @@
     "@aws-amplify/ui": "1.2.3",
     "@vue/cli-plugin-babel": "^3.0.1",
     "@vue/cli-plugin-unit-jest": "^3.0.1",
+snyk-upgrade-2503d4af93583a55cf37713084fa2667
+    "@vue/cli-service": "^3.0.1",
+    "@vue/test-utils": "1.2.1",
+
     "@vue/cli-service": "^4.0.0",
     "@vue/test-utils": "1.0.0-beta.29",
+    master
     "babel-core": "7.0.0-bridge.0",
     "postcss-loader": "^2.1.6",
     "vue-template-compiler": "^2.5.17"
