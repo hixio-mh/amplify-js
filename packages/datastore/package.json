@@ -36,8 +36,13 @@
   "homepage": "https://aws-amplify.github.io/",
   "devDependencies": {
     "@react-native-community/netinfo": "4.7.0",
+snyk-upgrade-f4d2593a05addc6c9eb09eb4d3118251
+    "@types/uuid": "3.4.9",
+    "dexie": "3.0.1",
+
     "@types/uuid": "3.4.5",
     "dexie": "3.0.3",
+master
     "dexie-export-import": "1.0.0-rc.2",
     "fake-indexeddb": "3.1.3"
   },
