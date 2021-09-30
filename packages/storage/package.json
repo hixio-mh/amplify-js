@@ -36,6 +36,8 @@
   "homepage": "https://aws-amplify.github.io/",
   "dependencies": {
     "@aws-amplify/core": "^3.3.2",
+snyk-upgrade-1b7aaa136f4d8ee23074309da4f93914
+    "@aws-sdk/client-s3": "3.27.0",
 snyk-upgrade-8b6ea3d507527d4af7af6511e83f4e4a
     "@aws-sdk/client-s3": "3.26.0",
 
