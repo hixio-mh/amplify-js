@@ -36,7 +36,7 @@
     "@types/zen-observable": "^0.8.0"
   },
   "dependencies": {
-    "@aws-amplify/api-rest": "^1.0.17",
+    "@aws-amplify/api-rest": "^2.0.14",
     "@aws-amplify/auth": "^3.2.12",
     "@aws-amplify/cache": "^3.1.15",
     "@aws-amplify/core": "^3.3.2",
