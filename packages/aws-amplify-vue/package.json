@@ -21,12 +21,22 @@
   "devDependencies": {
     "@aws-amplify/ui": "1.2.3",
     "@vue/cli-plugin-babel": "^3.0.1",
+ snyk-fix-2958fe491c0bc8ba24256f9c05aa418e
+    "@vue/cli-plugin-unit-jest": "^4.0.0",
     "@vue/cli-plugin-unit-jest": "^3.0.1",
+snyk-fix-0624acec164f5901bd62425f6bc8d081
+    "@vue/cli-service": "^4.2.0",
+
+snyk-fix-2678ea24a5545742c3c5402beedd2d9d
+    "@vue/cli-service": "^4.1.2",
+    snyk-fix-c7790960be86340bd3b8c12f944879ff
 snyk-upgrade-2503d4af93583a55cf37713084fa2667
     "@vue/cli-service": "^3.0.1",
     "@vue/test-utils": "1.2.1",
-
+master
     "@vue/cli-service": "^4.0.0",
+master
+
     "@vue/test-utils": "1.0.0-beta.29",
     master
     "babel-core": "7.0.0-bridge.0",
