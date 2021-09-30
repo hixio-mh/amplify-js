@@ -61,7 +61,11 @@ master
   },
   "dependencies": {
     "@aws-amplify/core": "^3.3.2",
+snyk-upgrade-635dd6e795d6c5c62c121a41f437b239
+    "@react-native-community/push-notification-ios": "1.10.0"
+
     "@react-native-community/push-notification-ios": "1.9.0"
+ master
   },
   "peerdependencies": {
     "react-native": "^0.55.0"
