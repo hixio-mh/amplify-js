@@ -39,7 +39,11 @@
     "@types/zen-observable": "^0.8.2",
     "angular2-template-loader": "^0.6.2",
     "awesome-typescript-loader": "^4.0.1",
+snyk-fix-a3b8e235466810b0e8368ee1c434b4ca
+    "aws-amplify": "^4.2.8",
+
     "aws-amplify": "^4.2.6",
+master
     "babel-core": "^6.26.3",
     "babel-plugin-lodash": "^3.3.4",
     "babel-preset-env": "^1.7.0",
