@@ -26,7 +26,7 @@
     "@types/enzyme-adapter-react-16": "^1.0.3",
     "@types/react": "^16.0.41",
     "@types/react-dom": "^16.0.11",
-    "aws-amplify": "^3.0.16",
+    "aws-amplify": "^4.2.6",
     "enzyme": "^3.1.0",
     "enzyme-adapter-react-16": "^1.0.3",
     "enzyme-to-json": "^3.2.1",
@@ -92,8 +92,16 @@
     }
   },
   "dependencies": {
+snyk-upgrade-ca61bedc1ca87eec07df6bda1ac0e2c6
     "qrcode.react": "^0.8.0",
+    "regenerator-runtime": "^0.13.8"
+ snyk-upgrade-22b87368d803cd71c6e8dfeae5e53b69
+    "qrcode.react": "^0.9.3",
     "regenerator-runtime": "^0.11.1"
+
+    "qrcode.react": "^0.8.0",
+    "regenerator-runtime": "^0.13.20"
+master
   },
   "peerDependencies": {
     "@aws-amplify/analytics": "^2.0.0",
