@@ -64,12 +64,16 @@ master
 
     "@aws-sdk/s3-request-presigner": "1.0.0-gamma.1",
     "@aws-sdk/util-create-request": "1.0.0-gamma.1",
+    snyk-fix-810e4554525ba63fd6c22d695058a3ba
+    "@aws-sdk/util-format-url": "1.0.0-gamma.1",
+    "axios": "0.21.3",
     "@aws-sdk/util-format-url": "1.0.0-gamma
     snyk-upgrade-346d4b8caafac0a1b9f2619a96738325
     "axios": "0.21.3",
 
     "axios": "0.21.4",
  master
+
     "events": "^3.1.0",
     "sinon": "^7.5.0"
   },
