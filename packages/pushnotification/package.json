@@ -43,12 +43,16 @@ snyk-upgrade-1d8ccdf9fefd5f2e2161e6c09cb19ddf
     "compression-webpack-plugin": "^4.0.0",
  master
     "find": "^0.2.7",
+    snyk-fix-957ba185fba8a3b5ef79a3b1c22daa43
+    "jest": "^24.0.0",
+
 snyk-fix-bbb1e3289060232f8c77c9a07ddb88f8
     "jest": "^25.0.0",
 
- master
+master
     "jest": "^22.4.3",
 master
+
     "json-loader": "^0.5.7",
     "prepend-file": "^1.3.1",
     "rimraf": "^2.6.2",
