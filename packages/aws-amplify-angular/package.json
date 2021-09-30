@@ -36,16 +36,24 @@
     "@types/lodash": "^4.14.106",
     "@types/node": "^9.4.6",
     "@types/paho-mqtt": "^1.0.3",
-    "@types/zen-observable": "^0.5.3",
+    "@types/zen-observable": "^0.8.2",
     "angular2-template-loader": "^0.6.2",
     "awesome-typescript-loader": "^4.0.1",
-    "aws-amplify": "^3.0.16",
+snyk-fix-a3b8e235466810b0e8368ee1c434b4ca
+    "aws-amplify": "^4.2.8",
+
+    "aws-amplify": "^4.2.6",
+master
     "babel-core": "^6.26.3",
     "babel-plugin-lodash": "^3.3.4",
     "babel-preset-env": "^1.7.0",
     "babel-preset-es2015": "^6.24.1",
+snyk-fix-1efb245651e6498fc0bfa4af4ffb59f3
+    "css-loader": "^1.0.0",
+
     "css-loader": "^0.28.1",
-    "jest-preset-angular": "^7.1.1",
+ master
+    "jest-preset-angular": "^8.1.0",
     "json-loader": "^0.5.4",
     "ng-mocks": "7.x.x",
     "raw-loader": "^0.5.1",
@@ -66,7 +74,7 @@
     "to-string-loader": "^1.1.5",
     "uglify-js": "^3.4.7",
     "zone": "^0.3.4",
-    "zone.js": "^0.8.26"
+    "zone.js": "^0.11.4"
   },
   "dependencies": {
     "@aws-amplify/ui": "^2.0.2",
