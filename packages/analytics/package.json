@@ -42,6 +42,9 @@
     "@aws-sdk/client-firehose": "1.0.0-gamma.2",
     "@aws-sdk/client-kinesis": "1.0.0-gamma.2",
     "@aws-sdk/client-personalize-events": "1.0.0-gamma.2",
+snyk-upgrade-1055c5253dd0b4bd2553fb4486a62bc4
+    "@aws-sdk/client-pinpoint": "3.26.0",
+
  snyk-upgrade-7a1932c8e977c0dbe11e621f909c8443
     "@aws-sdk/client-pinpoint": "3.25.0",
 snyk-upgrade-a0fa72ae6a3b6676c4722750213cee12
