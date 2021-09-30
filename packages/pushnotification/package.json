@@ -34,22 +34,42 @@
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",
+snyk-fix-95ddeb2495aaf79e4a6641ecc542e05e
+    "compression-webpack-plugin": "^2.0.0",
+
+snyk-upgrade-1d8ccdf9fefd5f2e2161e6c09cb19ddf
     "compression-webpack-plugin": "^1.1.3",
+    "find": "^0.3.0",
+    "compression-webpack-plugin": "^4.0.0",
+ master
     "find": "^0.2.7",
+    snyk-fix-957ba185fba8a3b5ef79a3b1c22daa43
+    "jest": "^24.0.0",
+
+snyk-fix-bbb1e3289060232f8c77c9a07ddb88f8
+    "jest": "^25.0.0",
+
+master
     "jest": "^22.4.3",
+master
+
     "json-loader": "^0.5.7",
     "prepend-file": "^1.3.1",
     "rimraf": "^2.6.2",
     "source-map-loader": "^0.2.1",
-    "ts-jest": "^22.0.0",
+    "ts-jest": "^23.1.0",
     "tslint": "^5.7.0",
     "tslint-config-airbnb": "^5.8.0",
     "uglifyjs-webpack-plugin": "^0.4.6",
-    "webpack": "^3.5.5"
+    "webpack": "^4.0.0"
   },
   "dependencies": {
     "@aws-amplify/core": "^3.3.2",
-    "@react-native-community/push-notification-ios": "1.8.0"
+snyk-upgrade-635dd6e795d6c5c62c121a41f437b239
+    "@react-native-community/push-notification-ios": "1.10.0"
+
+    "@react-native-community/push-notification-ios": "1.9.0"
+ master
   },
   "peerdependencies": {
     "react-native": "^0.55.0"

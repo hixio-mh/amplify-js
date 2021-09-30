@@ -38,8 +38,8 @@
     "@types/zen-observable": "^0.8.0"
   },
   "dependencies": {
-    "@aws-amplify/api-graphql": "^1.0.17",
-    "@aws-amplify/api-rest": "^1.0.17"
+    "@aws-amplify/api-graphql": "^2.2.3",
+    "@aws-amplify/api-rest": "^2.0.14"
   },
   "peerDependencies": {
     "@aws-amplify/pubsub": "^2.1.1"
