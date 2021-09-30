@@ -3,18 +3,56 @@
   "version": "0.2.8",
   "private": true,
   "dependencies": {
-    "@aws-amplify/ui-react": "^0.2.8",
+
+snyk-fix-07d863c9427f308386f553dbf12f8e66
+    "@aws-amplify/ui-react": "^1.0.1",
     "@storybook/addon-knobs": "^5.3.13",
+
+    snyk-fix-6dd280d89b2d1e011886ef9ce5943d0a
+    "@aws-amplify/ui-react": "^1.0.1",
+
+    "@aws-amplify/ui-react": "^0.2.8",
+ master
+    "@storybook/addon-knobs": "^6.1.0"
+    master
     "@storybook/theming": "^5.3.14",
-    "@types/jest": "^24.0.0",
+    "@types/jest": "^25.1.0",
     "@types/node": "^12.0.0",
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
-    "aws-amplify": "^3.0.1",
+    snyk-fix-07d863c9427f308386f553dbf12f8e66
+    "aws-amplify": "^4.2.8",
+
+    "aws-amplify": "^4.2.6",
+master
     "react": "^16.12.0",
     "react-app-polyfill": "^1.0.6",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.4.1"
+snyk-fix-15f164a68236c5802d98895ceaeafe1b
+    "react-scripts": "4.0.0"
+
+snyk-fix-1ca224788722ce0ad28f7cd52f3552d3
+    "react-scripts": "3.4.4"
+snyk-fix-0c9df8a30041fb021f88bf8a5fa49c38
+    "react-scripts": "4.0.0"
+    snyk-fix-b575873ffb5af4b456e0592f1e3b23f4
+    "react-scripts": "4.0.0"
+    snyk-fix-2b1f6f768ef1a41a410e94348c437325
+    "react-scripts": "3.4.4"
+ snyk-fix-646a784e883e2adb3bc910093692dabf
+    "react-scripts": "4.0.0"
+
+snyk-upgrade-fcc5fb50b2beba85cf9fd791a80d5a1c
+    "react-scripts": "3.4.4"
+
+snyk-fix-520fe50c781e4430f4e277c7c2fb1414
+    "react-scripts": "3.4.3"
+
+    "react-scripts": "4.0.0" 
+master
+
+
+
   },
   "scripts": {
     "test": "react-scripts test --passWithNoTests",
@@ -45,7 +83,17 @@
     "@storybook/addon-links": "^5.3.13",
     "@storybook/addons": "^5.3.13",
     "@storybook/preset-create-react-app": "^1.5.2",
+snyk-fix-0c9df8a30041fb021f88bf8a5fa49c38
+    "@storybook/react": "^6.2.0",
+
+snyk-fix-6dd280d89b2d1e011886ef9ce5943d0a
+snyk-upgrade-4b35182a172e38ee648ba81b430f71a8
     "@storybook/react": "^5.3.13",
+    "typescript": "~3.9.10"
+    master
+    "@storybook/react": "^6.1.0",
+master
     "typescript": "~3.7.2"
+master
   }
 }

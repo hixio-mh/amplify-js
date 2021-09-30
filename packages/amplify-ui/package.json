@@ -15,17 +15,30 @@
   },
   "license": "Apache-2.0",
   "devDependencies": {
+snyk-fix-c751d7127b6c95b95d2b1108934954ff
     "autoprefixer": "^9.5.1",
     "copyfiles": "^2.3.0",
+
+    "autoprefixer": "^9.8.6",
+    "copyfiles": "^2.1.1",
+master
     "css-loader": "^2.1.1",
     "dts-css-modules-loader": "^1.0.1",
-    "mini-css-extract-plugin": "^0.6.0",
+    "mini-css-extract-plugin": "^0.12.0",
     "postcss-loader": "^3.0.0",
     "rimraf": "^2.6.3",
     "style-loader": "^0.23.1",
     "ts-loader": "^5.4.4",
+ snyk-upgrade-c6ee0b8c9a3e6ea6c0e7765027e381bd
     "webpack": "4.39.3",
+snyk-fix-c751d7127b6c95b95d2b1108934954ff
     "webpack-cli": "^4.0.0"
+    "webpack-cli": "^3.3.12"
+
+    "webpack": "4.46.0",
+    "webpack-cli": "^3.3.5"
+ master
+
   },
   "postcss": {
     "plugins": {
