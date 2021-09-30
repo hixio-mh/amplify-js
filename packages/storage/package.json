@@ -36,11 +36,40 @@
   "homepage": "https://aws-amplify.github.io/",
   "dependencies": {
     "@aws-amplify/core": "^3.3.2",
-    "@aws-sdk/client-s3": "3.0.0",
+snyk-upgrade-8b6ea3d507527d4af7af6511e83f4e4a
+    "@aws-sdk/client-s3": "3.26.0",
+
+ snyk-upgrade-a0d6777c6b2e860b26d88b2c20b98eaa
+    "@aws-sdk/client-s3": "3.24.0",
+snyk-upgrade-5077d6360828e65a651a8067b70f7143
+    "@aws-sdk/client-s3": "3.23.0",
+
+ snyk-uprade-a71d050e1f9567d860b7666326fde571
+    "@aws-sdk/client-s3": "3.22.0",
+
+snyk-upgrade-04b8411d89f81ae712f23c1bbe9bde41
+    "@aws-sdk/client-s3": "3.21.0",
+
+snyk-upgrade-3d20ea2fb49b11be2d409bc113ec1384
+    "@aws-sdk/client-s3": "3.20.0",
+
+snyk-upgrade-6bd0156e452a687c056b41f1fc6778a7
+    "@aws-sdk/client-s3": "3.19.0",
+snyk-upgrade-87eff2ca4002f35a6d0011db734b6fbe
+    "@aws-sdk/client-s3": "3.25.0",
+snyk-upgrade-eb8f3f980d8057e1b70ce558204f9501
+    "@aws-sdk/client-s3": "3.18.0",
+    "@aws-sdk/client-s3": "3.30.0",
+master
+
     "@aws-sdk/s3-request-presigner": "1.0.0-gamma.1",
     "@aws-sdk/util-create-request": "1.0.0-gamma.1",
-    "@aws-sdk/util-format-url": "1.0.0-gamma.1",
-    "axios": "0.21.1",
+    "@aws-sdk/util-format-url": "1.0.0-gamma
+    snyk-upgrade-346d4b8caafac0a1b9f2619a96738325
+    "axios": "0.21.3",
+
+    "axios": "0.21.4",
+ master
     "events": "^3.1.0",
     "sinon": "^7.5.0"
   },
