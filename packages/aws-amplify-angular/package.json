@@ -52,7 +52,10 @@ snyk-fix-1efb245651e6498fc0bfa4af4ffb59f3
     "css-loader": "^1.0.0",
 
     "css-loader": "^0.28.1",
+snyk-fix-18f2d10a8eaf95f2eb647d424ea9fa85
+
  master
+
     "jest-preset-angular": "^8.1.0",
     "json-loader": "^0.5.4",
     "ng-mocks": "7.x.x",
