@@ -48,7 +48,11 @@ master
     "babel-plugin-lodash": "^3.3.4",
     "babel-preset-env": "^1.7.0",
     "babel-preset-es2015": "^6.24.1",
+snyk-fix-1efb245651e6498fc0bfa4af4ffb59f3
+    "css-loader": "^1.0.0",
+
     "css-loader": "^0.28.1",
+ master
     "jest-preset-angular": "^8.1.0",
     "json-loader": "^0.5.4",
     "ng-mocks": "7.x.x",
